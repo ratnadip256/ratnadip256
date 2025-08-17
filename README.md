@@ -5,9 +5,9 @@ Email Me 👉 ✉️ ratnadipshit44@gmail.com For Collaboration/Project or Anyth
 
 🤝 I’m looking to collaborate on innovative frontend engineering projects.
 
-⚙️ I’m currently learning React.js, Tailwind CSS & GSAP for modern UI engineering.
+⚙️ I’m currently learning Full Stack Development.
 
-📌 Ask me about C, C++, JavaScript, HTML, CSS, and frontend architecture.
+📌 Ask me about C, C++, HTML, CSS,  JavaScript, React and frontend architecture.
 
 🚀 Fun fact: I enjoy turning complex ideas into clean, functional, and dynamic user experiences.
 
